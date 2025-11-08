@@ -1,0 +1,9 @@
+@"
+streamlit
+pandas
+streamlit-folium
+folium
+geopy
+scikit-learn
+numpy
+"@ > requirements.txt
